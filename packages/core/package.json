@@ -1,8 +1,8 @@
 {
   "name": "@flash-create-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "flash-create-cli core",
-  "author": "brandy <yfbrandy@itcom888.com>",
+  "author": "jay",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
